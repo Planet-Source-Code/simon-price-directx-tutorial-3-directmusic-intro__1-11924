@@ -1,0 +1,13 @@
+DIRECT TUTORIAL #3 - BY SIMON PRICE
+
+DIRECT MUSIC INTRO
+
+This heavily commented code will teach you how to load, play and stop a MIDI file using DirectMusic. You need DirectX7 to run this. You also need the DirectX7 for Visual Basic library, which you can get from www.microsoft.com if you haven't already got it. And you need the MS Common Dialog control version 6.
+
+If you find this tutorial helpful, please go to www.planet-source-code.com/vb and vote for it. That will encourage me to write more tutorials. Also, please visit my website - www.VBgames.co.uk, for a whole load more of Visual Basic programs by me.
+
+Look out for my next tutorial, DirectDraw exclusive mode - this allows you to take full control of your video card and make full screen graphics!
+
+Simon Price
+Si@VBgames.co.uk
+www.VBgames.co.uk
